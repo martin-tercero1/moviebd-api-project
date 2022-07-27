@@ -1,0 +1,19 @@
+{
+  "name": "moviebd-api-project",
+  "version": "1.0.0",
+  "description": "MovieDB Project | API REST with JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martin-tercero1/moviebd-api-project.git"
+  },
+  "author": "@martin-tercero1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martin-tercero1/moviebd-api-project/issues"
+  },
+  "homepage": "https://github.com/martin-tercero1/moviebd-api-project#readme"
+}
